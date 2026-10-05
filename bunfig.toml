@@ -1,0 +1,3 @@
+[loader]
+".hbs" = "text"
+".svg" = "text"
